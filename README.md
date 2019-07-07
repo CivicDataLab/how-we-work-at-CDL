@@ -8,8 +8,8 @@ To take decisions in a smaller team is easy, but as the team grows, it takes tim
 
 #### How to add new questions (if your concern is not addressed yet)
 - Each question is just an open issue with relevant tags
-- Please refer to the [issue template](issue_template.md) when adding new questions
-- Make sure to be as descriptive as possible, as that will help the team to understand it better and take actions quickly
+- Refer to the [issue template](issue_description.md) file when adding new questions
+- Make sure to be as descriptive as possible, that will help the team to understand the issue better and take actions swiftly
 - Don't forget to rank your question/issues from 1(not so important) to 5 (most important) to help us plan our milestones better
 
 #### Process to define parts of the working model
